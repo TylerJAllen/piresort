@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+  background-color: ;
+}
+.header {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d6/99/ec/d699ec462da83eaf895c783d942bce91.jpg");
+  height:500px;
+  width: 100%;
+  background-size: cover;
+
+  border: 2px solid red;
+
+}
+.body {
+
+}
+ul {
+
+}
+
+li {
+  list-style: none;
+  float: left;
+  padding-right: 40px;
+}
+
+a {
+    display: inline;
+}
+
+h1 {
+  color: white;
+  font-family:fantasy;
+  font-size: 60px;
+  margin-bottom: -20px;
+}
+
+h2 {
+  color: white;
+  font-family:fantasy;
+}
