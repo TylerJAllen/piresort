@@ -1,41 +1,111 @@
 * {
   text-align: center;
-  background-color: ;
+  font-family:fantasy;
+  list-style: none;
 }
-.header {
+
+
+/*headers*/
+
+.headerindex {
   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d6/99/ec/d699ec462da83eaf895c783d942bce91.jpg");
+  height:600px;
+  width: 100%;
+  background-size: cover;
+  border: 2px solid red;
+}
+.headeraccom {
+  background-image: url("http://vignette2.wikia.nocookie.net/zombie/images/c/cd/Bungalow-Resort-Beach-Island-Maldives-HD.jpeg/revision/latest?cb=20140302100308");
+  height:600px;
+  width: 100%;
+  background-size: cover;
+  border: 2px solid red;
+}
+.headeract {
+  background-image: url("");
+  height:600px;
+  width: 100%;
+  background-size: cover;
+  border: 2px solid red;
+}
+.headertrav {
+  background-image: url("");
+  height:600px;
+  width: 100%;
+  background-size: cover;
+  border: 2px solid red;
+}
+.headerpix {
+  background-image: url("");
   height:500px;
   width: 100%;
   background-size: cover;
-
   border: 2px solid red;
-
+}
+.headercon {
+  background-image: url("");
+  height:600px;
+  width: 100%;
+  background-size: cover;
+  border: 2px solid red;
 }
 .body {
   border: 2px solid red;
-  height: 700px;
+  height: 50px;
   width: 100%;
 }
 
+/*headings*/
 
-li {
+.h1index {
+  color: white;
+  font-family:fantasy;
+  text-decoration: underline;
+  text-shadow: 1px 1px 2px black;
+  font-size: 60px;
+  margin-bottom: -20px;
+}
+
+.h2index {
+  color: white;
+  font-family:fantasy;
+  font-style: italic;
+  text-shadow: 1px 1px 2px black;
+}
+
+.h3index {
+  color: white;
+  font-family:fantasy;
+  font-style: italic;
+  line-height: 70px;
+  text-shadow: 1px 1px 2px black;
+}
+
+
+.h1accom {
+  color: white;
+  font-family:fantasy;
+  text-decoration: underline;
+  text-shadow: 1px 1px 2px black;
+  font-size: 60px;
+  margin-bottom: -20px;
+}
+
+.h2accom {
+  color: black;
+  font-family:fantasy;
+  font-style: italic;
+}
+
+
+
+.horizontal {
   list-style: none;
   float: left;
   padding-right: 40px;
 }
 
+
 a {
     display: inline;
-}
-
-h1 {
-  color: white;
-  font-family:fantasy;
-  font-size: 60px;
-  margin-bottom: -20px;
-}
-
-h2 {
-  color: white;
-  font-family:fantasy;
 }
