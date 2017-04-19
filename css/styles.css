@@ -22,7 +22,7 @@
   border: 2px solid red;
 }
 .headeract {
-  background-image: url("");
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d5/6b/78/d56b78302c175577aa66c72a29947ab1.jpg");
   height:600px;
   width: 100%;
   background-size: cover;
@@ -57,7 +57,7 @@
 
 /*headings*/
 
-.h1index {
+.h1 {
   color: white;
   font-family:fantasy;
   text-decoration: underline;
@@ -82,22 +82,11 @@
 }
 
 
-.h1accom {
-  color: white;
-  font-family:fantasy;
-  text-decoration: underline;
-  text-shadow: 1px 1px 2px black;
-  font-size: 60px;
-  margin-bottom: -20px;
-}
-
-.h2accom {
+.allotherheadings {
   color: black;
   font-family:fantasy;
   font-style: italic;
 }
-
-
 
 .horizontal {
   list-style: none;
